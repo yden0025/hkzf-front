@@ -1,0 +1,12 @@
+.map,
+#container {
+  height: 100%;
+}
+
+.map {
+  padding-top: 45px;
+  // 顶部导航栏
+  .navbar {
+    margin-top: -45px;
+  }
+}
